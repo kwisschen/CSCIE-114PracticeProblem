@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-function App() {
+function Solution() {
   // Part 1 solution
   const currentTime = new Date().toLocaleTimeString();
   const [time, setTime] = useState(currentTime); // "Destructuring" for useState hook
@@ -21,4 +21,4 @@ function App() {
   );
 }
 
-export default App;
+export default Solution;

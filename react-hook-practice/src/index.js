@@ -1,9 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./components/App"; // Replace this line with "import Solution from "./components/Solution" to view solution
+import App from "./components/App"; // To preview solution, replace this line with "import Solution from "./components/Solution"...
 
-ReactDOM.render(<App />, document.getElementById("root"));
+ReactDOM.render(<App />, document.getElementById("root")); // ...and replace the '<App />' in this line with '<Solution />'
 
+
+// React Hooks Practice Set
 
 // Part 1
 // Given that we can grab and log the current time in our locale with the following snippet:
