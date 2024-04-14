@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./components/App";
+import App from "./components/App"; // Change to "import Solution from "./components/Solution" to view solution
 
 ReactDOM.render(<App />, document.getElementById("root"));
 

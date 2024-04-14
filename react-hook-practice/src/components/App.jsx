@@ -1,22 +1,13 @@
 import React, { useState } from "react";
 
 function App() {
-  // Part 1 solution
-  const currentTime = new Date().toLocaleTimeString();
-  const [time, setTime] = useState(currentTime); // Destructuring for useState hook
 
-  function updateTime() {
-    const newTime = new Date().toLocaleTimeString();
-    setTime(newTime);
-  }
-
-  // Part 2 solution
-  setInterval(updateTime, 1000); // Call updateTime every 1000 milliseconds
+{/* YOUR CODE HERE */}
 
   return (
     <div className="container">
-      <h1>{ time }</h1>
-      <button onClick={ updateTime }>Get Time</button>
+      <h1>Current Time</h1>
+      <button>Get Time</button>
     </div>
   );
 }
