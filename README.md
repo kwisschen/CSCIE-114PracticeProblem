@@ -4,10 +4,10 @@
 
 Hooks are crucial to React programming, but is one of the most difficult concepts to grasp in introductory lessons on React.
 
-This is a simple exercise designed for students to get some practice using useState hooks in React. Please refer to the __src/index.js__ file for directions on how to complete this exercise.
+This is a simple exercise designed for students to get some practice using useState hooks in React. Please refer to the __src/index.js__ file for more detailed directions on how to complete this exercise.
 
 
-## Instructions
+## Step-by-Step Instructions
 
 ### Step 1
 
@@ -16,12 +16,12 @@ Visit Stackblitz URL: __https://stackblitz.com/~/github.com/kwisschen/CSCIE-114P
 
 ### Step 2
 
-Change to practice set directory: __cd react-hook-practice__
+Change to practice set directory: __'cd react-hook-practice'__
 
 
 ### Step 3
 
-Install dependencies: __npm install__
+Install dependencies: __'npm install'__
 
 
 ### Step 4
@@ -31,7 +31,7 @@ View directions in the file: __index.js__
 
 ### Step 5
 
-Run app in initial state: __npm start__
+Run app in initial state: __'npm start'__
 
 
 ### Step 6
